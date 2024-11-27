@@ -1,2 +1,4 @@
 not_to_be_attached
 *.ipynb_checkpoints/
+data/books/mysterious_island.txt
+data/models/island_pretrained_model.pt
